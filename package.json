@@ -1,0 +1,23 @@
+{
+  "name": "my_notes",
+  "version": "1.0.0",
+  "description": "My Note is an app that allows you to save and recall notes and tasks from a simple list.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenslade/My_Notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenslade/My_Notes/issues"
+  },
+  "homepage": "https://github.com/stevenslade/My_Notes#readme"
+}
