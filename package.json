@@ -2,7 +2,7 @@
   "name": "my_notes",
   "version": "1.0.0",
   "description": "My Note is an app that allows you to save and recall notes and tasks from a simple list.",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "express": "^4.17.1"
   },
