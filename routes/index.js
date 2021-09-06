@@ -14,38 +14,3 @@ app.use('/notes', notesRouter);
 module.exports = app;
 
 
-
-
-
-
-
-
-
-//my worthless code
-
-// const express = require('express');
-// const app = express();
-// const notesRouter = require('./notes'); 
-
-// app.use('/notes', notesRouter); 
-
-// module.exports = app;
-
-
-
-
-// const router = require('express').Router();
-
-// router.get('/notes', (req, res) => {
-//     store
-//     .getNotes()
-//     .then((notes) => {
-//         return res.json(notes);
-//     })
-//     .catch((err) => res.status(500).json(err));
-// });
-
-
-
-
-// module.exports = router;
