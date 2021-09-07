@@ -58,5 +58,5 @@
 
 ## <a id="sample"></a>Deployed Version
 
-* [My Notes on Heroku](https://stevenslade.github.io/Visual-Team-Tracker/)
+* [My Notes on Heroku](https://salty-brushlands-66923.herokuapp.com/)
 
