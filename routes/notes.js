@@ -47,7 +47,7 @@ notes.put('/:id', (req, res) => {
   readFromFile('./db/db.json')
     .then((data) => JSON.parse(data))
     .then((json) => {
-      // Make a new array of all notes except the one with the ID provided in the URL
+      // Make a new array of all notes except the one with the ID provided
       const result = json.filter((note) => note.id !== noteId);
 
       // Save that array to the filesystem

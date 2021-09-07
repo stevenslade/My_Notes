@@ -1,24 +1,5 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "My first Title",
-        "text": "My first Note",
-        "note_id": "8fbb"
-    },
-    {
-        "title": "My second title",
-        "text": "Exciting information",
-        "note_id": "0cac"
-    },
-    {
-        "title": "Third Title",
-        "text": "More stuff",
-        "note_id": "6083"
-    },
-    {
         "title": "Four",
         "text": "things",
         "id": "21ea"
