@@ -1,4 +1,3 @@
-//code from activity #26
 const express = require('express');
 const path = require('path');
 const { clog } = require('./middleware/clog');
@@ -27,12 +26,6 @@ app.get('/', (req, res) =>
 app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
-
-// GET Route for feedback page
-//I shouldn't need this ince I am not collecting feedback, I won't have this page
-// app.get('/feedback', (req, res) =>
-//   res.sendFile(path.join(__dirname, '/public/pages/feedback.html'))
-// );
 
 app.listen(PORT, () =>
   console.log(`App listening at http://localhost:${PORT} 🚀`)
