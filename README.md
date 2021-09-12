@@ -15,8 +15,6 @@
 
 1. [Collaborators](#collaborators)
 
-1. [Tests](#tests)
-
 1. [Questions](#questions)
 
 1. [Example HTML file](#sample)
@@ -35,10 +33,6 @@
 * Run the following to install dependancies, express is the only module to be installed
 
 > npm i
-
-## <a id="tests"></a>Tests
-
-* No command line tests are included in this application
 
 ## <a id="usage"></a>Usage
 
