@@ -22,7 +22,7 @@
 
 ## <a id="description"></a>Description
 
-* This applicaiton allows you to to enter a task title and description of your reminder.  When clicking the save icon at the upper right, it populates your information on a list to the left.  The task details can be recalled by clicking on the item on the list.  The plus sign to the upper right will enable you to enter a new note and the delete icon will remove a note when completed.
+* This application allows you to to enter a task title and description of your reminder.  When clicking the save icon at the upper right, it populates your information on a list to the left.  The task details can be recalled by clicking on the item on the list.  The plus sign to the upper right will enable you to enter a new note and the delete icon will remove a note when completed.
 
 ## <a id="screenshot"></a>Screenshot
 
