@@ -32,7 +32,7 @@
 
 ## <a id="installation"></a>Installation
 
-* Run the following to install dependancies
+* Run the following to install dependancies, express is the only module to be installed
 
 > npm i
 
@@ -42,7 +42,7 @@
 
 ## <a id="usage"></a>Usage
 
-* The repo can be forked and then the required modules installed.  The application is run from the command line by entering "node server.js"
+* The repo can be forked and then the required modules installed.  The entry point of the application is server.js.  Accessed by enterting "node server.js" from the command line.
 
 ## <a id="contributing"></a>Contributing
 
